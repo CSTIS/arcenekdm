@@ -1,0 +1,21 @@
+#  Exemple d'utilisation de l'api ARCENe.
+#  Copyright (C) 2016 http://www.cst.fr 
+#  @author <Sébastien Bodin>
+#  @version 1.0 (2016-07-01)
+#
+#  The MIT License (MIT)
+#  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+#  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+#  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+#  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+#  DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+#  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+#  THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+[USER]
+username : exploitant_test
+password : exploitant
+client : arceneClient
+client_secret : arcene
+siteUrl : https://qlf.bddcsp.cnc.aw.atosorigin.com/arcene
+atosCa : AtosOriginMultimediaactivity.pem
